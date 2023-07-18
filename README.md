@@ -1,2 +1,2 @@
 # CProgrammingBook
-A repository of projects for and from C Programming Language by Ritchie and Kernighan
+A repository of my projects for and from C Programming Language by Ritchie and Kernighan.
